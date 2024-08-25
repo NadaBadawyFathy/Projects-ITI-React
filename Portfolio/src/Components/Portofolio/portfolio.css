@@ -1,0 +1,9 @@
+.child,.child2{
+ background-color: rgba(41, 41, 41, 0.676);
+ color: white;
+    height: 100px;
+}
+.child p{
+     
+    border-bottom: 2px solid white;
+}
